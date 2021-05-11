@@ -1,3 +1,5 @@
+package Day1;
+
 public class Rectangle {
 
     int a = 15, b = 7;

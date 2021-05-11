@@ -1,11 +1,9 @@
+package Day1;
+
 public class Main {
 
     public static void main(String args[]) {
         System.out.println("Hello VanNT");
-//        Calculator calculator = new Calculator();
-//        calculator.sum();
-//        calculator.sub();
-//        calculator.chia();
 
         //homework day1
         System.out.println("***Calculate S and P of a rectangle***");
