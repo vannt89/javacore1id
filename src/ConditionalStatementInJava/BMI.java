@@ -1,4 +1,4 @@
-package LoopInJava;
+package ConditionalStatementInJava;
 
 public class BMI {
 
