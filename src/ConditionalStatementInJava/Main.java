@@ -20,6 +20,7 @@ public class Main {
 
         ////homework day2
         ////B1
+        System.out.println("*****Bài 1 - Nhập vào 1 tháng bất kì và in ra số ngày trong tháng đó*****");
         System.out.println("Enter month: ");
         int month = scanner.nextInt();
 
@@ -27,7 +28,8 @@ public class Main {
         m.showDatesOfMonth(month);
         m.getDatesInMonth(month);
 
-//        ////B2
+        ////B2
+        System.out.println("*****Bài 2 - Giải phương trình bậc 2*****");
         System.out.println("Enter a: ");
         float a = scanner.nextFloat();
 
@@ -41,6 +43,7 @@ public class Main {
         ptb2.tinhNghiemPTB2(a, b, c);
 
         ////B3
+        System.out.println("*****Bài 3 - Kiếm tra 3 số nhập vào có phải là 1 tam giác hay không*****");
         System.out.println("Enter a: ");
         float a1 = scanner.nextFloat();
 
